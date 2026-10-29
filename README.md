@@ -1,33 +1,37 @@
 <div align="center">
-
-<!-- DYNAMIC TYPING TERMINAL -->
-<a href="https://github.com/c00k3r">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+SESSION%3A+c00k3r...;%3E+CYBERSECURITY+RESEARCHER+%26+BUILDER;%3E+PENETRATION+TESTING+%7C+THREAT+HUNTING;%3E+WELCOME+TO+THE+LAB." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- CYBER NAVIGATION BUTTONS -->
-<a href="#about"><img src="https://img.shields.io/badge/01_//_ABOUT-080C14?style=for-the-badge&logoColor=00FFCC&labelColor=080C14" /></a>
-<a href="#arsenal"><img src="https://img.shields.io/badge/02_//_ARSENAL-080C14?style=for-the-badge&logoColor=00FFCC&labelColor=080C14" /></a>
-<a href="#projects"><img src="https://img.shields.io/badge/03_//_PROJECTS-080C14?style=for-the-badge&logoColor=00FFCC&labelColor=080C14" /></a>
-<a href="#telemetry"><img src="https://img.shields.io/badge/04_//_STATS-080C14?style=for-the-badge&logoColor=00FFCC&labelColor=080C14" /></a>
-<a href="https://github.com/c00k3r?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOS_%E2%86%92-00FFCC?style=for-the-badge&logoColor=080C14&labelColor=00FFCC" /></a>
-
-<pre>
-┌───────────────────────────────────────────────────────────────┐
-│  IDENT: c00k3r        STATUS: [ACTIVE HUNTING]   PRIVS: ROOT  │
-│  FOCUS: VAPT / AppSec / Network Recon / Security Tooling      │
-│  MOTTO: "Decompile the noise. Follow the packets."            │
-└───────────────────────────────────────────────────────────────┘
-</pre>
-
+  <img src="./banner.svg" alt="Mrityunjay Guleria Banner" width="100%" />
 </div>
+
+### Hi, I'm Mrityunjay Guleria 👋
+**Cybersecurity & Privacy Student (B.Tech CSE)** • Focused on VAPT, security automation, and threat intelligence.
+
+- 🔍 **Active Focus:** Penetration testing, sub-domain reconnaissance automation, and local attack surface mapping.
+- ⚙️ **Key Projects:** [**CyberScope**](https://github.com/c00k3r/CyberScope) (Security Posture Analyzer) & [**Subdomain-Automation**](https://github.com/c00k3r/Subdomain-Automation) (ReconForge).
+- 🎯 **Goals:** Open to Offensive Security & SOC internships.
 
 ---
 
-<span id="about"></span>
-### 🛡️ About Me
+### 🛠️ Weapons of Choice
 
-```bash
-c00k3r@root:~$ whoami --verbose
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-002B49?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=c00k3r&show_icons=true&theme=dark&bg_color=080C14&title_color=00FFCC&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B&hide_border=false" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c00k3r&theme=dark&background=080C14&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&currStreakNum=FFFFFF&sideNums=38BDF8&sideLabels=94A3B8&border=1E293B" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c00k3r&layout=compact&theme=dark&bg_color=080C14&title_color=00FFCC&text_color=94A3B8&border_color=1E293B&hide_border=false" width="55%" />
+</p>
