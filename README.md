@@ -24,14 +24,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=c00k3r&show_icons=true&theme=dark&bg_color=080C14&title_color=00FFCC&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=c00k3r&theme=dark&background=080C14&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&currStreakNum=FFFFFF&sideNums=38BDF8&sideLabels=94A3B8&border=1E293B" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c00k3r&layout=compact&theme=dark&bg_color=080C14&title_color=00FFCC&text_color=94A3B8&border_color=1E293B&hide_border=false" width="55%" />
-</p>
