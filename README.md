@@ -3,7 +3,7 @@
 </div>
 
 ### Hi, I'm Mrityunjay Guleria 👋
-**Cybersecurity & Privacy Student (B.Tech CSE)** • Focused on VAPT, security automation, and threat intelligence.
+**Cybersecurity & Privacy Student (B.Tech CSE)** • Focused on VAPT, security automation, threat intelligence, DFIR, SOC, and red teaming
 
 - 🔍 **Active Focus:** Penetration testing, sub-domain reconnaissance automation, and local attack surface mapping.
 - ⚙️ **Key Projects:** [**CyberScope**](https://github.com/c00k3r/CyberScope) (Security Posture Analyzer) & [**Subdomain-Automation**](https://github.com/c00k3r/Subdomain-Automation) (ReconForge).
